@@ -1,25 +1,21 @@
 package com.utopiaxc.jpmahjong.adapter;
 
 import android.content.Context;
-import android.os.Bundle;
-
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentPagerAdapter;
-
 import com.utopiaxc.jpmahjong.R;
 import com.utopiaxc.jpmahjong.fragments.FragmentRoles;
 import com.utopiaxc.jpmahjong.fragments.FragmentTools;
 import com.utopiaxc.jpmahjong.fragments.FragmentWiki;
-
 import java.util.ArrayList;
 import java.util.List;
 
 public class FragmentPagerAdapters extends FragmentPagerAdapter {
-    List<Fragment> fragments;
-    Context context;
+    private List<Fragment> fragments;
+    private Context context;
     private int[] titles={R.string.tab_1,R.string.tab_2,R.string.teb_3};
 
 

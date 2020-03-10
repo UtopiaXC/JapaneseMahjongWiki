@@ -3,12 +3,22 @@
     <string name="tab_1">Wiki</string>
     <string name="tab_2">Roles</string>
     <string name="teb_3">Tools</string>
-    <string name="nav_developer_message">Powered By UtopiaXC</string>
-    <string name="nav_rights_message">©2020 All Rights Reserve</string>
+    <string name="nav_developer_message">Designed By UtopiaXC</string>
+    <string name="nav_rights_message">©2020 All Rights Reserved</string>
     <string name="settings">Settings</string>
     <string name="about">About</string>
     <string name="feedback">Feedback</string>
     <string name="links">Links</string>
     <string name="random_page">Random Page</string>
     <string name="share">Share</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="alert">Alert</string>
+    <string name="alert_share">Will go to the app market, if you do not have the app market, we will open the CoolApk home page</string>
+    <string name="share_fail">Fail to open Play Store,will take you to CoolApk</string>
+
+    <string name="alert_feedback">Will go to Developer\'s GitHub, if you want to feedback,you can commit issues at this app\'s git. </string>
+    <string name="description_avatar">This is developer\'s Avatar</string>
+
 </resources>

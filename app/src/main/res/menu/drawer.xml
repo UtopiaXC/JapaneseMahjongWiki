@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <group android:checkableBehavior="single">
         <item
             android:id="@+id/navigation_item_random"
             android:title="@string/random_page"
@@ -31,6 +30,5 @@
             android:icon="@drawable/ic_settings_black_24dp"
             android:title="@string/settings" />
 
-    </group>
 
 </menu>

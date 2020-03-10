@@ -18,6 +18,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".Activities.ActivityAbout" />
+        <activity android:name=".Activities.ActivitySettings" />
+        <activity android:name=".Activities.ActivityLinks" />
     </application>
 
 </manifest>

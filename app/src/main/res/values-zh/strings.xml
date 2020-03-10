@@ -4,12 +4,21 @@
     <string name="tab_1">百科</string>
     <string name="tab_2">役种</string>
     <string name="teb_3">小工具</string>
-    <string name="nav_developer_message">Powered By UtopiaXC</string>
-    <string name="nav_rights_message">©2020 All Rights Reserve</string>
+    <string name="nav_developer_message">Designed By UtopiaXC</string>
+    <string name="nav_rights_message">©2020 All Rights Reserved</string>
     <string name="settings">设置</string>
     <string name="about">关于</string>
     <string name="feedback">反馈</string>
     <string name="links">友情链接</string>
     <string name="random_page">随机页面</string>
     <string name="share">分享应用</string>
+    <string name="confirm">确认</string>
+    <string name="cancel">取消</string>
+
+    <string name="alert">提示</string>
+    <string name="alert_share">将前往应用市场，如果您未安装应用市场将打开酷安首页</string>
+    <string name="share_fail">应用商店打开失败，将打开酷安首页</string>
+
+    <string name="alert_feedback">将打开本应用GitHub页面，如想反馈请在该仓库提交Issue</string>
+    <string name="description_avatar">这是开发者的头像</string>
 </resources>
