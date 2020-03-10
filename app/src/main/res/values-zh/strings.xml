@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">日本麻将百科</string>
+    <string name="tab_1">百科</string>
+    <string name="tab_2">役种</string>
+    <string name="teb_3">小工具</string>
+    <string name="nav_developer_message">Powered By UtopiaXC</string>
+    <string name="nav_rights_message">©2020 All Rights Reserve</string>
+    <string name="settings">设置</string>
+    <string name="about">关于</string>
+    <string name="feedback">反馈</string>
+    <string name="links">友情链接</string>
+    <string name="random_page">随机页面</string>
+    <string name="share">分享应用</string>
+</resources>

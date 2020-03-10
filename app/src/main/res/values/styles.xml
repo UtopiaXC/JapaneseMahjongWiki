@@ -1,0 +1,46 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="DefaultTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    <!-- Customize your theme here. -->
+    <item name="colorPrimary">@color/colorDefaultPrimary</item>
+    <item name="colorPrimaryDark">@color/colorDefaultPrimaryDark</item>
+    <item name="colorAccent">@color/colorDefaultAccent</item>
+    <item name="android:navigationBarColor">@color/colorDefaultNavigationBarColor</item>
+    <item name="android:statusBarColor">@color/colorDefaultStatusBarColor</item>
+    <item name="android:textColorPrimary">@color/colorDefaultTextColorPrimary</item>
+    <item name="android:textColor">@color/colorDefaultTextColor</item>
+    <item name="tabIndicatorColor">@color/colorDefaultTabIndicatorColor</item>
+    <item name="tabTextColor">@color/colorDefaultTabTextColor</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+</style>
+
+
+    <style name="RedTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorRedPrimary</item>
+        <item name="colorPrimaryDark">@color/colorRedPrimaryDark</item>
+        <item name="colorAccent">@color/colorRedAccent</item>
+        <item name="android:navigationBarColor">@color/colorRedNavigationBarColor</item>
+        <item name="android:statusBarColor">@color/colorRedStatusBarColor</item>
+        <item name="android:textColorPrimary">@color/colorRedTextColorPrimary</item>
+        <item name="android:textColor">@color/colorRedTextColor</item>
+        <item name="tabIndicatorColor">@color/colorRedTabIndicatorColor</item>
+        <item name="tabTextColor">@color/colorRedTabTextColor</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+
+
+
+
+
+
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+
+</resources>

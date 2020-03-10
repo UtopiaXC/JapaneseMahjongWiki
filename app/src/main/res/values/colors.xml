@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorDefaultPrimary">#6200EE</color>
+    <color name="colorDefaultPrimaryDark">#3700B3</color>
+    <color name="colorDefaultAccent">#6200EE</color>
+    <color name="colorDefaultNavigationBarColor">#3700B3</color>
+    <color name="colorDefaultStatusBarColor">#3700B3</color>
+    <color name="colorDefaultTextColorPrimary">#000000</color>
+    <color name="colorDefaultTextColor">#FFFFFF</color>
+    <color name="colorDefaultTabIndicatorColor">#FFFFFF</color>
+    <color name="colorDefaultTabTextColor">#FFFFFF</color>
+
+    <color name="colorRedPrimary">#D50000</color>
+    <color name="colorRedPrimaryDark">#9D0000</color>
+    <color name="colorRedAccent">#FF5131</color>
+    <color name="colorRedNavigationBarColor">#9D0000</color>
+    <color name="colorRedStatusBarColor">#9D0000</color>
+    <color name="colorRedTextColorPrimary">#000000</color>
+    <color name="colorRedTextColor">#FFFFFF</color>
+    <color name="colorRedTabIndicatorColor">#FFFFFF</color>
+    <color name="colorRedTabTextColor">#FFFFFF</color>
+
+
+
+</resources>

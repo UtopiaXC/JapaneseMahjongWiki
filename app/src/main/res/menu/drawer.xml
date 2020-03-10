@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/navigation_item_random"
+            android:title="@string/random_page"
+            android:icon="@drawable/ic_casino_black_24dp"/>
+        <item
+            android:id="@+id/navigation_item_links"
+            android:title="@string/links"
+            android:icon="@drawable/ic_insert_link_black_24dp"/>
+
+        <item
+            android:id="@+id/navigation_item_feedback"
+            android:title="@string/feedback"
+            android:icon="@drawable/ic_feedback_black_24dp"/>
+
+        <item
+            android:id="@+id/navigation_item_share"
+            android:icon="@drawable/ic_share_black_24dp"
+            android:title="@string/share" />
+
+        <item
+            android:id="@+id/navigation_item_about"
+            android:icon="@drawable/ic_info_outline_black_24dp"
+            android:title="@string/about" />
+
+        <item
+            android:id="@+id/navigation_item_settings"
+            android:icon="@drawable/ic_settings_black_24dp"
+            android:title="@string/settings" />
+
+    </group>
+
+</menu>
